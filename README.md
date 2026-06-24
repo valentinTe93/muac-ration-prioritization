@@ -36,13 +36,3 @@ The program processes the field data sequentially through the following pipeline
 * **Step 8: Statistical Analysis (Bonus):** Computes descriptive statistics (mean MUAC vectors) across different cohorts to evaluate population-level variances.
 
 ---
-
-## 🚀 Getting Started
-
-### Prerequisites
-* Python 3.x Installed
-
-### Installation & Execution
-1. Clone this repository to your local system:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/muac-ration-prioritization.git](https://github.com/YOUR_USERNAME/muac-ration-prioritization.git)
